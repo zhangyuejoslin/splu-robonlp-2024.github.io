@@ -1,2 +1,2 @@
-# splu-robonlp-2023
-Website for SpLU RoboNLP 2023 workshop
+# splu-robonlp-2024
+Website for SpLU RoboNLP 2024 workshop
